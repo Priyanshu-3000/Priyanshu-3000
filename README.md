@@ -14,8 +14,6 @@
 <p align="left">
 <a href="https://twitter.com/priyanshu__3000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyanshu__3000" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/priyanshu-saini-902266216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu saini" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23182322/priyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="priyanshu" height="30" width="40" /></a>
-<a href="https://instagram.com/priyanshu__3000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyanshu__3000" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
