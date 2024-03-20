@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/priyanshu__3000" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshu__3000?logo=twitter&style=for-the-badge" alt="priyanshu__3000" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://priyanshu-3000.github.io/Portfolio/](https://priyanshu-3000.github.io/Portfolio/)
-
 - 📫 How to reach me **Sainipriyanshu59@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
