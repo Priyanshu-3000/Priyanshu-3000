@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Saini</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Developer</h3>
 
 
 <p align="left"> <a href="https://twitter.com/priyanshu__3000" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshu__3000?logo=twitter&style=for-the-badge" alt="priyanshu__3000" /></a> </p>
