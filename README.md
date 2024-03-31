@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Saini</h1>
 <h3 align="center">A passionate Developer</h3>
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3M0NG16djZiMjFtbzh6YXJ5cjRrZ2V6YW1id2h4dzliY3pkdm1laSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="priyanshu-3000" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-3000&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-3000" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshu-3000" alt="priyanshu-3000" /></a> </p>
